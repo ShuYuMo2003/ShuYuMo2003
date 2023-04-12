@@ -1,7 +1,7 @@
 ### Hi, ✨Shu_Yu_Mo✨ Here!👋
 
  - 🔭 OIer, AFOer (WC 2020🥈, NOI 2021 🥉).
- - 🎓 Bachelor of Engineering in Computer Science and Thechology (Honours).
+ - 🎓 Bachelor of Engineering in Computer Science and Techology (Honours).
  - 🏫 Undergraduate Student at Xiamen University Malaysia (XMUM).
  - ❤️ A normal kid with strong love for programming and computer.
  - 🌟 Learning and loving BlockChain and C/C++ development.
