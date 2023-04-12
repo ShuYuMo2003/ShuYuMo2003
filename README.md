@@ -6,8 +6,8 @@
  - ❤️ A normal kid with strong love for programming and computer.
  - 🌟 Learning and loving BlockChain and C/C++ development.
  - ❤️ Maintaining [CQYZ-OJ](http://oj.cqyz.cn/).
+ - 🌟 [OI Blog(zh)](https://shuyumo2003.github.io/)
 
-[OI Blog(zh)](https://shuyumo2003.github.io/)
 
 <p align="center">
   <a href="https://skillicons.dev">
