@@ -8,7 +8,7 @@
  - ❤️ Maintaining [CQYZ-OJ](http://oj.cqyz.cn/).
  - 🌟 [OI Blog(zh)](https://shuyumo2003.github.io/)
 
-
+<p align="center">
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=ShuYuMo2003&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ShuYuMo2003&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px">
 </a>
@@ -18,6 +18,7 @@
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ShuYuMo2003&theme=calm&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Menci's GitHub stats" height="185px">
 </a>
 
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
