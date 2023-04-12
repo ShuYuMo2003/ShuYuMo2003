@@ -9,12 +9,6 @@
  - 🌟 [OI Blog(zh)](https://shuyumo2003.github.io/)
 
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,r,matlab,latex,md,redis,mongodb,nginx,postman,git,pr,ae,au,arduino,django,github,vscode,docker,vim" />
-  </a>
-</p>
-
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=ShuYuMo2003&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ShuYuMo2003&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px">
 </a>
@@ -28,3 +22,10 @@
 <a href="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ShuYuMo2003&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only">
   <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=ShuYuMo2003&theme=calm&layout=compact&langs_count=8&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-dark-mode-only" alt="Top Langs" height="185px">
 </a>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,r,matlab,latex,md,redis,mongodb,nginx,postman,git,pr,ae,au,arduino,django,github,vscode,docker,vim" />
+  </a>
+</p>
