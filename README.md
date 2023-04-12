@@ -7,8 +7,13 @@
  - 🌟 Learning and loving BlockChain and C/C++ development.
  - ❤️ Maintaining [CQYZ-OJ](http://oj.cqyz.cn/).
 
-[OI Blog(zh)][https://shuyumo2003.github.io/)
+[OI Blog(zh)](https://shuyumo2003.github.io/)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,py,js,r,matlab,latex,md,redis,mongodb,nginx,postman,git,pr,ae,au,arduino,django,github,vscode,docker,vim" />
+  </a>
+</p>
 
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=ShuYuMo2003&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
   <img src="https://github-readme-stats-one-bice.vercel.app/api?username=ShuYuMo2003&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" alt="Menci's GitHub stats" height="185px">
