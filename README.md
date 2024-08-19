@@ -3,7 +3,7 @@
  - 🔭 OIer, AFOer (WC 2020🥈, NOI 2021 🥉).
  - 🎓 Bachelor of Engineering in Computer Science and Techology (Honours).
  - 🏫 Undergraduate Student at Xiamen University Malaysia (XMUM).
- - ❤️ A normal stupid boy with strong love for programming and computing.
+ - ❤️ <del>A normal stupid boy with strong love for programming and computing.</del>
  - 🌟 <del>Working on BlockChain and C/C++ development.</del>
  - 🌟 Working on the generation of 3D Articulated Object.
  - ❤️ Maintaining [CQYZ-OJ](http://oj.cqyz.cn/).
