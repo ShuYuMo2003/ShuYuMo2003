@@ -3,11 +3,9 @@
  - 🔭 OIer, AFOer (WC 2020🥈, NOI 2021 🥉).
  - 🎓 Bachelor of Engineering in Computer Science and Techology (Honours).
  - 🏫 Undergraduate Student at Xiamen University Malaysia (XMUM).
- - ❤️ <del>A normal stupid boy with strong love for programming and computing.</del>
- - 🌟 <del>Working on BlockChain and C/C++ development.</del>
- - 🌟 Working on the generation of 3D Articulated Object.
- - ❤️ Maintaining [CQYZ-OJ](http://oj.cqyz.cn/).
- - 🌟 [OI Blog(zh)](https://shuyumo2003.github.io/oi-blog/)
+ - 🌟 Intern @ GalBot.
+ - 🌟 Working on VLA.
+ - 🌟 [OI Blog(zh)](https://shuyumo2003.github.io/) with self-implemented framework.
 
 <p align="center">
 <a href="https://github-readme-stats-one-bice.vercel.app/api?username=ShuYuMo2003&show_icons=true&include_all_commits=true&role=OWNER,ORGANIZATION_MEMBER#gh-light-mode-only" target="_blank">
